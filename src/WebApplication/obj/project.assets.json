@@ -9313,14 +9313,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\horsens-poc-app\\src\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\sandbox\\horsens-poc-app\\src\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\horsens-poc-app\\src\\WebApplication\\WebApplication.csproj",
+      "projectPath": "C:\\sandbox\\horsens-poc-app\\src\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\mikha\\.nuget\\packages\\",
-      "outputPath": "C:\\horsens-poc-app\\src\\WebApplication\\obj\\",
+      "outputPath": "C:\\sandbox\\horsens-poc-app\\src\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\horsens-poc-app\\NuGet.Config",
+        "C:\\sandbox\\horsens-poc-app\\NuGet.Config",
         "C:\\Users\\mikha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
